@@ -148,9 +148,8 @@ Für den Upload können wir das gleiche Programm nutzen. Dazu führen Sie folgen
 ---
 
 Wenn Sie die bisherigen Aufgaben zu leicht/nicht tiefgehend genug finden und wenn Sie zur Zeit
-einen Linux-PC nutzen, **leiten Sie ein xorg-Fenster über SSH an ihre Host-Mashcine**. Das Funktioniert
-wie folgt:
+einen Linux-PC nutzen, **leiten Sie ein xorg-Fenster über SSH an ihre Host-Mashcine**. 
 
-
-
+Um dies bereitzustellen können Sie sich hier zum Thema [xorg-forwarding](https://www.baeldung.com/linux/forward-x-over-ssh)
+einlesen. 
 
