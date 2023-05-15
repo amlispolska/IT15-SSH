@@ -153,3 +153,7 @@ einen Linux-PC nutzen, **leiten Sie ein xorg-Fenster über SSH an ihre Host-Mash
 Um dies bereitzustellen können Sie sich hier zum Thema [xorg-forwarding](https://www.baeldung.com/linux/forward-x-over-ssh)
 einlesen. 
 
+Bitte beachten Sie, dass sie im Login-Fenster "Gnome unter Xorg" auswählen müssen. 
+
+Sollten Sie unter Windows arbeiten können Sie versuchen, dies unter *WSL2* umzusetzen. Alternativ dazu 
+können Sie die bereitgestellte VM klonen und xorg-forwaring zwischen den beiden VMs ausprobieren. 
